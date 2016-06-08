@@ -10,3 +10,6 @@ Oh my!
 npm test
 ```
 
+[Nightmare]: https://github.com/segmentio/nightmare
+[Ava]: https://github.com/avajs/ava
+
