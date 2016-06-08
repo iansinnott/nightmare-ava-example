@@ -4,3 +4,9 @@ An example of using [Nightmare][] and [Ava][] together for an excellent integrat
 
 Oh my!
 
+## Running the example
+
+```
+npm test
+```
+
